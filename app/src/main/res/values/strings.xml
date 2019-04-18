@@ -1,0 +1,190 @@
+<resources>
+    <string name="app_name">FiTBiT</string>
+
+    //feeling anxious
+    <string name="breathinginandout">
+        Continuous breathing helps you calm down by focusing on evenly inhaling and exhaling.
+    </string>
+
+    <string name="threerule">
+        Look around and name 3 things you see, hear and 3 parts of your body. It is a mental trick to bring your mind back to the present moment.
+    </string>
+
+    <string name="takeawalk">
+        Anxiety causes you to hunch over, limiting air supply to your lungs heart so walk with your shoulders out to increase air flow.
+    </string>
+
+    <string name="moveaway">
+        Sometimes the causing factor can be something physical, so it is as easy as to move away from the object to prevent it from aggrivating.
+    </string>
+
+    <string name="drink">
+        Caffeinated drinks increase the heartrate making a person more prone to suffer anxiety.
+    </string>
+
+    <string name="meditate">
+        The smallest amount of meditation can ease the brain and train it to stay in focus which has proven to be very beneficial.
+    </string>
+
+    <string name="professional">
+        If you feel that your not improving, make sure to call for help or dial 999 for professionals to step in.
+    </string>
+
+
+
+    //feeling panicked
+    <string name="deepbreathing">
+        Practice breathing in through your nose for a count of five, hold it and then breathe out through mouth to prevent hyperventilation.
+    </string>
+
+    <string name="recognition">
+        By recognizing that you’re having a panic attack instead of a heart attack, you can remind yourself that this is temporary, it will pass, and that you’re OK.
+    </string>
+
+    <string name="closeyoureyes">
+        Panic attacks can happen in response to fast-paced stimuli. By closing your eyes, it blocks out the stimuli making it easier to focus on breathing.
+    </string>
+
+    <string name="focusobject">
+        It is  helpful to find a single object to focus all of your attention on during a panic attack to minimise the effects on yourself.
+    </string>
+
+    <string name="regularexcercise">
+        Endorphins keep the blood pumping in exactly the right away. It can help flood our body with endorphins, which can improve your mood.
+    </string>
+
+    <string name="benzodiazepines">
+        If the panic attacks are recurrent, professionals will prescribe you with these medicine to prevent the panic attacks.
+    </string>
+
+    <string name="Cognitivebehaviouraltherapy">
+        CBT focuses on determining the thought and behavior patterns responsible for sustaining or causing the panic attacks, you can change the way you think and feel.
+    </string>
+
+    //info
+    <string name="info">
+        <br>Anxiety is a feeling of unease, such as worry or fear, that can be mild or severe. </br>
+        <br>People with Generalized Anxiety Disorder (GAD) worry about their every day lives and it makes them feel
+        anxious most days. Are you one of those? </br>
+    </string>
+
+    <string name="heart">
+        A heart rate of over 100bpm and increased breathing rate
+    </string>
+
+    <string name="pers">
+        Excessive sweating as a result of the stress response from Anxiety
+    </string>
+
+    <string name="toilet">
+        The need to relieve yourself as a result of the bodies fight or flight response
+    </string>
+
+    <string name="flushes">
+        Fluctuating temperatures with a period of intense hot or cold flashes
+    </string>
+
+    <string name="info2">
+        A panic attack is the abrupt onset of intense fear or discomfort that reaches a peak within minutes.
+        They can happen all of sudden and can be described as a rush of intense anxiety. Are you one of those?
+    </string>
+
+    <string name="Palpitations">
+        An erratic heart rate of more than 150bpm with atrial fibrillation.
+    </string>
+
+    <string name="Trembling">
+        The arms, legs or hands trembling are a result to the bodies fight-or-flight reaction.
+
+    </string>
+
+    <string name="Shortnessofbreath">
+        Shortness of breath as a result of not enough air getting into the lungs.
+    </string>
+
+    <string name="Dizziness">
+        Dizziness because your brain is trying to process all the symptoms occurring to your body.
+    </string>
+
+    <string name="Fear">
+        Extreme fear of something bad happening as the attack escalates, worrying about your safety.
+    </string>
+
+    <string name="Nausea">
+        Feeling nauseous as a result of discomfort in the abdominal region during panic.
+    </string>
+
+    //low heart rate
+    <string name="low1">
+        For some people, having a low heart rate is not considered dangerous however in others,
+        it can be a sign of Bradycardia.
+    </string>
+
+    <string name="low2">
+        Bradycardia causes insufficient blood flow to the brain and to the organs surrounding. A low
+        heart rate can compromise your circulation as your heart may not pump fast enough to keep a
+        healthy flow of blood up to your brain and throughout your body. This can cause symptoms such as:
+    </string>
+
+    <string name="low3">
+        <br>
+        1   Fainting \n</br>
+        <br>
+        2   Dizziness\n</br>
+        <br>
+        3   Confusion or Memory problems\n</br>
+        <br>
+        4   Shortness of Breath\n</br>
+        <br>
+        5   Fatigue\n</br>
+    </string>
+
+    //normal heart rate
+    <string name="low4">
+        A heart rate between 60-100bpm means your heart is perfectly healthy and it is beating at the
+        correct pace with no irregular movements.
+    </string>
+
+    <string name="low5">
+        Exercise is one of the factors which affect a heart rate as it can increase to 130-150bpm which
+        is normal because the body needs more oxygen to supply the brain and organs. So do not
+        worry if you see a high heart rate when exercising as it is just the bodies automatic
+        response.
+    </string>
+
+    //high heart rate
+    <string name="low6">
+        Tachycardia refers to a heart rate that is too fast. A heart rate of more than 100bpm is considered
+        too fast depending on your age and physical health.
+    </string>
+
+    <string name="low7">
+        Tachycardia starts in the upper chambers of the heart where the electrical signals fire abnormally.
+        This interferes with electrical impulses coming from the sinoatrial (SA) node, so this rapid
+        heartbeat keeps the heart’s chambers from filling completely between beats, which compromises
+        blood flow to the rest of the body. Symptoms include:
+
+    </string>
+
+    <string name="low8">
+        <br>
+        1   Lightheadedness \n</br>
+        <br>
+        2   Chest Pain\n</br>
+        <br>
+        3   Fainting (syncope)\n</br>
+        <br>
+        4   Shortness of Breath\n</br>
+        <br>
+        5   Heart palpitations — a racing and uncomfortable heartbeat\n</br>
+    </string>
+
+    <string name="low9">
+        Atrial fibrillation is the irregular beating of the heart, often higher than 100bpm, where
+        the heart feels its pounding or fluttering for a few minutes or seconds.
+    </string>
+
+</resources>
+
+
+

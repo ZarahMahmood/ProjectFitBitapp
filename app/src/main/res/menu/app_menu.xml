@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/menu"
+        android:title="Home"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/menu1"
+        android:title="Feeling Anxious"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/menu2"
+        android:title="Feeling Panicked"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/menu3"
+        android:title="Information about Anxiety and Panic Attacks"
+        android:background="#48c174"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/menu4"
+        android:title="Low Heart Rate"
+        android:background="#48c174"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/menu5"
+        android:title="Normal Heart Rate"
+        android:background="#48c174"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/menu6"
+        android:title="High Heart Rate"
+        android:background="#48c174"
+        app:showAsAction="never" />
+
+
+</menu>
